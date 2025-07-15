@@ -7,8 +7,8 @@ This repository provides the official implementation of the paper:
 
 ```text
 HMGTAP/
-├── models/                 # HMGTAP model files
-├── utils/                  # Utilities: metrics, preprocess, hypergraph construction
+├── model/                 # HMGTAP model files
+├── lib/                  # Utilities: metrics, dataloader, early_stop, utils
 ├── requirements.txt        # Dependencies
 └── README.md               # Project documentation
 ```
